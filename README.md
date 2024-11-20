@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a passionate Computer Science and Engineering student 
 ## 🤝 Let's Connect
 
 - 📧 **Email**: [ishika.mohol@gmail.com](mailto:ishika.mohol@gmail.com)
-- 🌐 **LinkedIn**: [Ishika Mohol](https://linkedin.com/in/your-linkedin)
+- 🌐 **LinkedIn**: [Ishika Mohol](www.linkedin.com/in/ishikamohol)
 
 ---
 
