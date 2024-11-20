@@ -14,8 +14,8 @@ Welcome to my GitHub! I'm a passionate Computer Science and Engineering student 
 
 ## 🔧 Skills
 
-- **Languages**: Python, Java, C, HTML/CSS, JavaScript, SQL
-- **Technologies**: Angular.js, MySQL, TensorFlow (Beginner)
+- **Languages**: Python, Java, C, HTML/CSS, JavaScript, SQL, C++
+- **Technologies**: AngularJS, MySQL, TensorFlow (Beginner), MongoDB (Beginner)
 
 ---
 
