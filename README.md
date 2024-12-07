@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate Computer Science and Engineering student 
 
 - 🎓 **Studying**: B.Tech in Computer Science & Engineering
 - 💻 **Interests**: Software Development, Data Structures & Algorithms, Machine Learning, Web Development
-- 🌱 **Currently Learning**: React, DSA, Cloud Computing, Machine Learning, AI, Deeplearning
+- 🌱 **Currently Learning**: React, DSA, Cloud Computing, Machine Learning, AI, Operating Systems, RTOS
 
 ---
 
