@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate Computer Science and Engineering student 
 
 ---
 
-## 🚀 About Me
+## 🎀 About Me
 
 - 🎓 **Studying**: B.Tech in Computer Science & Engineering
 - 💻 **Interests**: Software Development, Data Structures & Algorithms, Machine Learning, Web Development
