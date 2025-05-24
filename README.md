@@ -21,7 +21,7 @@ Welcome to my GitHub Wonderland! ✨ I'm a Computer Science & Engineering studen
 
 ## 📩 Let’s Connect!
 
-- 💌 **Email**: [ishika.mohol@gmail.com](mailto:ishika.mohol@gmail.com)
+- 💌 **Email**: [1MS22CS069@msrit.edu](mailto:1MS22CS069@msrit.edu)
 - 🌐 **LinkedIn**: [Ishika Mohol](https://www.linkedin.com/in/ishikamohol/)
 
 ---
