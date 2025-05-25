@@ -4,21 +4,6 @@ Welcome to my GitHub Wonderland! ✨ I'm a Computer Science & Engineering studen
 
 ---
 
-## 🌸 About Me
-
-- 🎓 **Degree:** B.Tech in Computer Science & Engineering
-- 💖 **Passionate About:** Software Development, Algorithms, Machine Learning, and Web Dev
-- 🌱 **Currently Exploring:** React, DSA, Cloud Computing, AI, Operating Systems, RTOS
-
----
-
-## 🦢 Tech Stack & Skills
-
-- 💡 **Languages:** Python, Java, C, JavaScript, SQL, HTML/CSS
-- ⚙️ **Frameworks & Tech:** AngularJS, MySQL, TensorFlow (Beginner), MongoDB (Beginner)
-
----
-
 ## 📩 Let’s Connect!
 
 - 💌 **Email**: [1MS22CS069@msrit.edu](mailto:1MS22CS069@msrit.edu)
