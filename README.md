@@ -6,8 +6,9 @@
 
 ## 📬 Let’s Connect
 
-**Email**: [1MS22CS069@msrit.edu](mailto:1MS22CS069@msrit.edu)
-**LinkedIn**: [Ishika Mohol](https://www.linkedin.com/in/ishikamohol/)
+Email: [1MS22CS069@msrit.edu](mailto:1MS22CS069@msrit.edu)
+
+LinkedIn: [Ishika Mohol](https://www.linkedin.com/in/ishikamohol/)
 
 🌸 Always open to learning, collaborating, and creating something meaningful!
 
