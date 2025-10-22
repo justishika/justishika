@@ -1,16 +1,14 @@
 # 𖡎 Ishika Dilip Mohol - Computer Science & Engineering Student
 
-Hi, there! I'm a Computer Science & Engineering student who loves crafting solutions, building intelligent systems, and exploring the endless possibilities of tech. Here, you'll find a collection of my projects. Let's turn logic into magic! 🚀💻
+👋 Hi there! I’m a Computer Science and Engineering student passionate about solving complex problems, building intelligent systems, and exploring innovative technologies. My work focuses on turning ideas into impactful, efficient, and scalable solutions.
 
----
+💡 Here, you’ll find a showcase of my projects — each reflecting my curiosity, creativity, and commitment to continuous learning.
 
-## 📩 Let’s Connect!
+## 📬 Let’s Connect
 
-- 💌 **Email**: [1MS22CS069@msrit.edu](mailto:1MS22CS069@msrit.edu)
-- 🌐 **LinkedIn**: [Ishika Mohol](https://www.linkedin.com/in/ishikamohol/)
+**Email**: [1MS22CS069@msrit.edu](mailto:1MS22CS069@msrit.edu)
+**LinkedIn**: [Ishika Mohol](https://www.linkedin.com/in/ishikamohol/)
 
----
-
-### 🌷 Let’s connect and create!
+🌸 Always open to learning, collaborating, and creating something meaningful!
 
 ---
