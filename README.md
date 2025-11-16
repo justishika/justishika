@@ -1,8 +1,8 @@
 # 𖡎 Ishika Dilip Mohol - Computer Science & Engineering Student
 
-👋 Hi there! I’m a Computer Science and Engineering student who loves solving real problems through code. I enjoy breaking down complex ideas, building systems that actually work, and learning how things run behind the scenes.
+Hi there! I’m a Computer Science and Engineering student who loves solving real problems through code. I enjoy breaking down complex ideas, building systems that actually work, and learning how things run behind the scenes.
 
-💡 Here, you’ll find a showcase of my projects, each reflecting my commitment to continuous learning.
+Here, you’ll find a showcase of some of my projects, each reflecting my commitment to continuous learning.
 
 ## 📬 Let’s Connect
 
